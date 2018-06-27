@@ -69,6 +69,7 @@ footer {
     -webkit-line-clamp: 2;
     overflow: hidden;
 }
+/*want and have button*/
 .item .panel-body {
     height: 120px;
 }
@@ -76,7 +77,6 @@ footer {
     display: inline-block;
     margin: 0 5px;
 }
-
 /* users */
 .user-profile .name {
     margin-bottom: 20px;
